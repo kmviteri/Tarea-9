@@ -178,13 +178,19 @@ Comprender y analizar como se comportan las diferentes variables en circuitos RL
 
 ![image](https://user-images.githubusercontent.com/117187676/221428398-39226111-dc02-4e58-a197-fbdac7b7d0ce.png)
 
+# 4.VIDEO
 
+https://youtu.be/2UpvylRAd5t
 
+# 5.CONCLUSIONES
 
+* Los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones.
 
+* Los filtros pasivos utilizan varias combinaciones de resistores, capacitores e inductores. los filtros pasivos pueden clasificarse en cuatro categorías generales de acuerdo con sus características de respuesta: pasabajas, pasaaltas, pasabanda y rechazabanda
 
+# 6.BIBLIOGRAFIA
 
-
+*F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
 
 
 
